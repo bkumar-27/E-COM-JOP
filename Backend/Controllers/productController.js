@@ -79,3 +79,7 @@ export let deleteProduct = async (req, res) => {
 		message: 'delete product',
 	})
 }
+
+
+var x = 10;
+console.log(x)
