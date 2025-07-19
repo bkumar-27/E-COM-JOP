@@ -1,0 +1,4 @@
+/Backend/node_modules
+/Backend/Config/config.env
+/Backend/Config/db.js
+/frontend/node_modules
